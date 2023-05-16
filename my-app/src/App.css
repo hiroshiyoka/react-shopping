@@ -1,0 +1,100 @@
+.boxparent {
+  width: 80%;
+  overflow: hidden;
+  margin: auto;
+  margin-top: 100px;
+}
+
+.photo-product {
+  float: left;
+  width: 50%;
+  height: 700px;
+  background: whitesmoke;
+}
+
+.photo-product img {
+  width: 100%;
+}
+
+.description {
+  width: 40%;
+  overflow: hidden;
+  float: left;
+  margin-left: 30px;
+}
+
+.description .info {
+  line-height: 1.8;
+  color: rgb(18, 11, 49);
+}
+
+.description .price {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.description .title {
+  margin: 0;
+}
+
+.description .cate {
+  color: #acaeb2;
+}
+
+.description a {
+  margin-top: 20px;
+  color: #fff;
+  font-weight: 500;
+  background: rgb(255, 159, 159);
+  text-decoration: none;
+  display: inline-block;
+  padding: 10px 20px 10px 20px;
+  font-size: 20px;
+  border-radius: 4px;
+  transition: all 0.8s; 
+}
+
+.description a:hover {
+  color: #ffffff;
+  background: rgb(221, 135, 135);
+  transition: all 0.8s;
+}
+
+.description ul li {
+  padding-bottom: 10px;
+}
+
+.review-box {
+  clear: both;
+  width: 100%;
+  overflow: hidden;
+  padding-bottom: 100px;
+}
+
+.review-box h2 {
+  margin-top: 50px;
+}
+
+.review-box img {
+  width: 80px;
+  height: 80px;
+  background: #b1b1b1;
+  border-radius: 11px;
+  float: left;
+  margin-right: 16px;
+}
+
+.review-box .user p, h3 {
+  margin: 0;
+}
+
+.review-box .user h3 {
+  padding-top: 10px;
+  margin-bottom: 8px;
+}
+
+.review-box .item {
+  width: 80%;
+  overflow: hidden;
+  margin-bottom: 24px;
+}
