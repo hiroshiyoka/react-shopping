@@ -8,8 +8,10 @@
 .photo-product {
   float: left;
   width: 50%;
-  height: 700px;
+  height: 415px;
   background: whitesmoke;
+  border-radius: 0.75rem;
+  overflow: hidden;
 }
 
 .photo-product img {
