@@ -24,12 +24,12 @@ function PhotoProduct() {
 
 function CheckDiscount(props) {
   const { isDiscount, discount } = props;
-  if (isDiscount == "yes") {
+  if (isDiscount === "yes") {
     return (
       <p>{discount}% off</p>
     );
   }
-  else if (isDiscount == "Coming") {
+  else if (isDiscount === "Coming") {
     return (
       <p>There will be a Discount soon...</p>
     );
