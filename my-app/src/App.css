@@ -28,6 +28,7 @@
 .description .info {
   line-height: 1.8;
   color: rgb(18, 11, 49);
+  text-align: justify;
 }
 
 .description .price {
