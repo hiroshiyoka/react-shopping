@@ -65,7 +65,7 @@
 .description a:hover {
   color: rgb(221, 135, 135);
   background: #fff;
-  transition: all 0.8s;
+  transition: all 0.6s;
 }
 
 .description ul li {
