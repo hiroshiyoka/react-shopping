@@ -6,7 +6,7 @@
   margin-bottom: 65px;
   background-color: wheat;
   padding: 45px;
-  border-radius: 0.75rem;
+  border-radius: 15px;
 }
 
 .photo-product {
@@ -14,7 +14,7 @@
   width: 50%;
   height: 415px;
   background: whitesmoke;
-  border-radius: 0.75rem;
+  border-radius: 15px;
   overflow: hidden;
   line-height: 415px;
 }
