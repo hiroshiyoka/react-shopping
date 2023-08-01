@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="boxparent">
       <PhotoProduct/>
-      <ProductInfo isDiscount="" name="Vans SK8-Hi" category="SKATE SHOES"/>
+      <ProductInfo isDiscount="" name="Vans SK8-Hi Black White" category="SKATE SHOES"/>
       <ReviewItems  />
     </div>
   );
