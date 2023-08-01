@@ -43,7 +43,7 @@ function CheckDiscount(props) {
 
 function ProductInfo(props) {
   const { category, name, isDiscount } = props;
-  const benefits = ["Trendy", "Soft", "Very new item"];
+  const benefits = ["Trendy", "Soft", "Very new item", "Most wanted"];
   const listBenefits = benefits.map((itemBenefit) =>
     <li key={itemBenefit}>{itemBenefit}</li>
   );
