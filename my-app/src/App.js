@@ -16,7 +16,7 @@ function App() {
 function PhotoProduct() {
   return (
     <div className="photo-product">
-      <img src="vansk8hi.png" alt='vans-skate8-hi'/>
+      <img src="vansk8hi.png" alt='vans-skate8-hi-pict'/>
     </div>
   );
 }
