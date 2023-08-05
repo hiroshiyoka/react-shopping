@@ -52,7 +52,7 @@ function ProductInfo(props) {
     <div className="description">
       <p className="cate">{category}</p>
       <h1 className="title">{name}</h1>
-      <p className="price">IDR 1.199.000</p>
+      <p className="price">IDR 1.099.000</p>
       <CheckDiscount isDiscount={isDiscount} discount={35} />
       <p className="info">
       The Sk8-Hi, Vans legendary lace-up high top inspired by the classic Old Skool, has a durable canvas and suede upper, a supportive and padded ankle, and Vans vulcanized signature Waffle Outsole.
