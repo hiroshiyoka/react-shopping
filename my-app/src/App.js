@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import ReviewItems from './Reviews';
 import PropTypes from 'prop-types';
